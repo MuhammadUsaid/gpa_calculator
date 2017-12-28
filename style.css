@@ -1,0 +1,69 @@
+th{
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+    background: lightblue;
+    color: grey;
+}
+#heading{
+    text-align: center;
+    color: purple;
+}
+select{
+    width: 100px;
+}
+#material{
+    border: 2px solid blue;
+    width: 60%;
+}
+.stylish:hover{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 2px 1px blue;
+    font-size: 16px;
+}
+.remove_button{
+    width: 300px
+}
+p{
+    font-size: 40px;
+    padding-left: 50px;
+    color: red;
+}
+#buttons{
+    padding-left: 20px;
+}
+.remove_button{
+    width: 100px;
+    font-size: 18px;
+    background: yellow;
+}
+.remove_button:hover{
+    border-radius: 2px;
+    color: green;
+    border: 3px solid blue;
+}
+.stylish{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    padding: 7px;
+    font-size: 15px;
+    margin: 10px
+}
+#main{
+    margin: 30px;
+    padding-left: 30%;
+}
+table{
+    width: 2px;
+    padding-left: 30px
+}
+td{
+    padding: 5px;
+}
+tr{
+    margin:  5px;
+    padding: 5px;
+}
